@@ -1,0 +1,5 @@
+Con este archivo de git se pretende poder realizar una propuesta completa con los para poder implementar unas pruebas de calidad en Caja Popular Mexicana
+
+En este archivo se pretende poder poner ideas y propuestas para llegar a cumplir el objetivo
+
+
